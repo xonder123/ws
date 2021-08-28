@@ -1,1 +1,4 @@
-"# ws" 
+npm i 
+
+npm start
+
