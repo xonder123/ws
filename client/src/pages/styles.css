@@ -1,0 +1,156 @@
+.container {
+    background-color: rgb(238,238,238);
+    width: 375px;
+    height: 670px;
+}
+.Box {
+	margin-top: 20px;
+	width: 344px;
+	text-align: center;
+	height: 127px;
+	background-color: #fff;
+	display: flex;
+}
+
+.BoxPhoto {
+	margin-top: 25px;
+    width: 99px;
+    border-radius: 65px;
+    height: 69px;
+    margin-left: 20px;
+}
+
+.BoxText {
+	margin-top: 26px;
+  	width: 200px;
+    height: 79px;
+    margin-left: 4px;
+}
+
+.UserName {
+	margin-left: 7px;
+    width: 0px;
+    font-size: 20px;
+}
+
+.UserEmail {
+	font-size: 12px;
+    margin-top: -21px;
+	margin-left: -9px;
+    color: #a9a9ac;
+}
+
+.UserButton {
+	width: 110px;
+    height: 30px;
+    background-color: #c5f6a7;
+    border: 0px;
+    border-radius: 11px;
+    margin-top: 93px;
+    margin-right: 42px;
+}
+
+.UserData {
+	margin-top: -18px;
+    font-size: 13px;
+    margin-right: 5px;
+    color: #a9a9ac;
+}
+
+.UserButton1 {
+	width: 110px;
+    height: 30px;
+    background-color: #f4f6a7;
+    border: 0px;
+    border-radius: 11px;
+    margin-top: 93px;
+    margin-right: 42px;
+
+
+}
+
+.gik {
+	height: 30px;
+    background-color: #dfdfe0;
+    border-radius: 10px;
+    display: flex;
+
+}
+.page-1 {
+	width: 175px;
+    text-align: center;
+    height: 28px;
+    margin-left: 2px;
+    border-radius: 17px;
+    padding-top: 0px;
+    background-color: #dfdfe0;
+    border: 0px;
+}
+.page-2 {
+	width: 175px;
+    text-align: center;
+    background-color: #fff;
+    height: 28px;
+    margin-left: -10px;
+    border-radius: 17px;
+    padding-top: 0px;
+}
+
+.page-d-1 {
+
+	width: 175px;
+    text-align: center;
+    background-color: #fff;
+    height: 28px;
+    margin-left: 2px;
+    border-radius: 17px;
+    padding-top: 0px;
+
+}
+
+.page-d-2 {
+	width: 175px;
+    text-align: center;
+    height: 28px;
+    margin-left: 2px;
+    border-radius: 17px;
+    padding-top: 0px;
+    background-color: #dfdfe0;
+    border: 0px;
+}
+
+
+.DeviceName {
+	margin-left: 7px;
+    width: 0px;
+    font-size: 20px;
+}
+
+.switch {
+	margin-right: 74px;
+    margin-top: -2px;
+    cursor: pointer;
+    width: 52px;
+
+}
+
+.DeviceModell {
+	font-size: 12px;
+    margin-top: -21px;
+	margin-left: -74px;
+    color: #a9a9ac;
+}
+
+.BoxPhotolo {
+	margin-top: 75px;
+    width: 98px;
+    margin-left: 20px;
+    height: 42px;
+}
+
+.BoxPhotoon {
+	margin-top: 75px;
+    width: 98px;
+    margin-left: 20px;
+    height: 42px;
+}
